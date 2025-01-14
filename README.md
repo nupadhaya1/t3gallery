@@ -10,6 +10,7 @@
 - [x] add auth
 - [ ] add image upload
 - [ ] add "taint"
+- [ ] use next image comp
 - [ ] error managing
 - [ ] routing/image page (parallel route)
 - [ ] delete button (server actions)
